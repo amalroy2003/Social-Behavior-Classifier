@@ -14,9 +14,8 @@ This project is a **Streamlit-based web application** that predicts whether a pe
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/personality-predictor.git
-cd personality-predictor
-
+git clone https://github.com/amalroy2003/Social-Behavior-Classifier.git
+cd Social-Behavior-Classifier
 
 ## 📊 Prediction Overview
 
@@ -36,6 +35,21 @@ The model outputs:
 
 - `Introvert` if the prediction is 0  
 - `Extrovert` if the prediction is 1
+
+---
+
+## 🧠 Model Training Summary
+
+- Algorithm: Random Forest Classifier
+- Training set: 80% of personality dataset
+- Features scaled using StandardScaler
+- Binary target: 0 = Introvert, 1 = Extrovert
+
+---
+
+- Accuracy: 87.5%
+- Precision (Extrovert): 0.90
+- Recall (Introvert): 0.85
 
 ---
 
