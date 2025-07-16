@@ -16,7 +16,7 @@ This project is a **Streamlit-based web application** that predicts whether a pe
 ```bash
 git clone https://github.com/amalroy2003/Social-Behavior-Classifier.git
 cd Social-Behavior-Classifier
-
+```
 ## 📊 Prediction Overview
 
 The app uses the following features to predict personality:
