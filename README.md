@@ -77,5 +77,5 @@ personality-predictor/
 
 🙋‍♀️ Author
 Amal ROy
-📧 amal.roy2100@gmail.com
-🔗 github.com/amalroy2003
+- 📧 amal.roy2100@gmail.com
+- 🔗 github.com/amalroy2003
