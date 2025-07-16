@@ -63,19 +63,9 @@ The model outputs:
 
 ---
 
-## 📁 Project Structure
 
-personality-predictor/
-**├── app.py # Streamlit application script**
-├**── model.pkl # Trained Random Forest model**
-├── scaler.pkl # StandardScaler object used during training
-├── features.pkl # List of input features
-├── personality.ipynb # Jupyter notebook for training the model
-├── personality_datasert.csv # Original dataset used for training
-├── Screenshot 2025-06-29 011144.png # UI screenshot for demo
-└── README.md # This file
 
 🙋‍♀️ Author
-Amal ROy
+- Amal ROy
 - 📧 amal.roy2100@gmail.com
 - 🔗 github.com/amalroy2003
