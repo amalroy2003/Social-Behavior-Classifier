@@ -66,8 +66,8 @@ The model outputs:
 ## 📁 Project Structure
 
 personality-predictor/
-├── app.py # Streamlit application script
-├── model.pkl # Trained Random Forest model
+**├── app.py # Streamlit application script**
+├**── model.pkl # Trained Random Forest model**
 ├── scaler.pkl # StandardScaler object used during training
 ├── features.pkl # List of input features
 ├── personality.ipynb # Jupyter notebook for training the model
